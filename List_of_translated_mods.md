@@ -178,8 +178,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2347354900
 # [WOTC] Extended Personnel Info Redux
 https://steamcommunity.com/sharedfiles/filedetails/?id=2965980985
 
-* Chinese
+* Simplified Chinese
 * Russian
+* Traditional Chinese
 
 # WOTC Show Tech Path
 https://steamcommunity.com/sharedfiles/filedetails/?id=1207741138
@@ -189,8 +190,9 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=1207741138
 # [WOTC] Full Shadow Report
 https://steamcommunity.com/sharedfiles/filedetails/?id=2995251401
 
-* Chinese
+* Simplified Chinese
 * Russian
+* Traditional Chinese
 
 # [WOTC] Musashi's Mods Fixes
 https://steamcommunity.com/sharedfiles/filedetails/?id=2569592723
@@ -200,21 +202,22 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2569592723
 # [WOTC] Community Promotion Screen
 https://steamcommunity.com/sharedfiles/filedetails/?id=2550561145
 
-* Chinese
+* Simplified Chinese
 
 # Better Second Wave Mod Support
 https://steamcommunity.com/sharedfiles/filedetails/?id=1149493976
 
-* Chinese
+* Simplified Chinese
 
 # [WotC] Mod Config Menu
 https://steamcommunity.com/sharedfiles/filedetails/?id=667104300
 
-* Chinese
+* Simplified Chinese
 * Russian
 * Spanish
 * German
 * Korean
+* Traditional Chinese
 
 # [WOTC] Cosmo Dragoon
 https://steamcommunity.com/sharedfiles/filedetails/?id=1829195076
@@ -458,4 +461,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=624793674
 # Shadow Ops Classes For LWOTC
 https://steamcommunity.com/sharedfiles/filedetails/?id=2283957200
 
-* Russian 
+* Russian
+
+# Evac All - WotC
+
+* Traditional Chinese
